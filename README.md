@@ -1,2 +1,2 @@
 # hom_pfsp
-Heuristic Optimization Methods assignment on the Permutation Flowshop Scheduling Problem (PFSP)
+Assignment on the Permutation Flowshop Scheduling Problem (PFSP) for the course Heuristic Optimization Methods.
